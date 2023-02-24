@@ -5,7 +5,7 @@
 ## Week 3 Homework
 
 ## Link
-[DeployedLink](https://github.com/JaredW1911/Quiz-3/)
+[DeployedLink](https://jaredw1911.github.io/Quiz-3/)
 
 ## Assignment Description
 In this assignment we were given HTML, CSS complete code and were given Javascript code that was incomplete that we are to complete. The site is a password generator the asks questions to then help generate a password. 
