@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## My Site
 
-![My site]()
+![My site](Password-Generator/index.html)
 
 
 ## Helpful Links
