@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## My Site
 
-![My site](Password-Generator/index.html)
+![My site](https://jaredw1911.github.io/Quiz-3/)
 
 
 ## Helpful Links
